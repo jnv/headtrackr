@@ -1,5 +1,5 @@
 {
-  "name": "headtrackr",
+  "name": "@jnv/headtrackr",
   "description": "headtracking via webcam and WebRTC/getUserMedia",
   "keywords": [
     "webcam",
